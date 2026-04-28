@@ -38,14 +38,7 @@ Building autonomous systems and deep learning architectures to solve real-world 
 
 *   **[Fall Detection](https://github.com/Anwaarhere27/Fall-Detection):** A real-time AI-powered fall detection system built using YOLOv8 Pose Estimation, OpenCV, and Python. This project detects human body posture using pose estimation and identifies falls based on body orientation angles.
 
----
-
-### :bar_chart: GitHub Insights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samnaqvi3737&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnaqvi3737&layout=compact&theme=dark" />
-</p>
+*   **[RAG System](https://github.com/Anwaarhere27/RAG-System/tree/main):** LegalRAG in action - querying legal documents with AI-powered responses and source citations.
 
 ---
 
