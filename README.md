@@ -33,7 +33,9 @@ Building autonomous systems and deep learning architectures to solve real-world 
 ### :test_tube: Featured Projects
 
 *   **[Facial Recognition Attendence System](https://github.com/Anwaarhere27/Facial-Recognition-Attendence):** A real-time face recognition-based attendance system built using FaceNet (facenet-pytorch) and OpenCV. The system detects faces via webcam, recognizes individuals, and logs attendance in structured CSV files with duplicate handling.
+
 *   **[Vehicle Counter](https://github.com/Anwaarhere27/Vechicle-Counter):** A real-time vehicle counting system built using YOLOv8, OpenCV, and ByteTrack. This project detects and tracks cars in a video and counts vehicles crossing a virtual line.
+
 *   **[Fall Detection](https://github.com/Anwaarhere27/Fall-Detection):** A real-time AI-powered fall detection system built using YOLOv8 Pose Estimation, OpenCV, and Python. This project detects human body posture using pose estimation and identifies falls based on body orientation angles.
 
 ---
